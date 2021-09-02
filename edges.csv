@@ -1,33 +1,1209 @@
 source,target,Weight,group
+Cesar Augusto Gonçalves Beatrice,Luiz Antonio Pessan,2,1
+Letícia Mariê Minatogau Ferro,Anerise de Barros,2,1
+Letícia Mariê Minatogau Ferro,Leandro Merces,2,1
+Letícia Mariê Minatogau Ferro,Carlos César Bof Bufon,3,1
+Anerise de Barros,Carlos César Bof Bufon,2,1
+Leandro Merces,Carlos César Bof Bufon,4,1
+Maria Fernanda Malateaux de Oliveira,Ana Champi,2,1
+Marie-Charlotte DRAGASSI,Laurent ROYON,2,1
+Marie-Charlotte DRAGASSI,Michaël REDOLFI,2,1
+Marie-Charlotte DRAGASSI,Souad Ammar,2,1
+Laurent ROYON,Michaël REDOLFI,2,1
+Laurent ROYON,Souad Ammar,2,1
+Michaël REDOLFI,Souad Ammar,2,1
+Davi Marcelo Soares,Gurpreet Singh,2,1
+Walter José Botta Filho,Guilherme Zepon,2,1
+Natan Luis Nozella,Miguel Henrique Boratto,2,1
+Natan Luis Nozella,Carlos Frederico de Oliveira Graeff,2,1
+Miguel Henrique Boratto,Carlos Frederico de Oliveira Graeff,2,1
+Nayereh Soltani,Terje Finstad,3,1
+Jamil Ur Rahman,Patrícia Almeida Carvalho,2,1
+Jamil Ur Rahman,Terje Finstad,3,1
+Patrícia Almeida Carvalho,Terje Finstad,3,1
+Luiz Fernando Gorup,Emerson Rodrigues Camargo,2,1
+Matheus Batista Cordeiro de Souza,Pablo Sebastián Fernández,2,1
+Cláudio Backes,Daniel Eduardo Weibel,3,1
+Beatriz Aparecida Vessalli,Talita Mazon,2,1
+Silvania Lanfredi,Fabiano Rafael Praxedes,2,1
+Silvania Lanfredi,Marcos Augusto Lima Nobre,2,1
+Fabiano Rafael Praxedes,Marcos Augusto Lima Nobre,2,1
+Sergio Antonio Marques Lima,Ana Maria Pires,3,1
+Leonardo Figueiredo Saraiva,Airton Germano Bispo Junior,2,1
+Leonardo Figueiredo Saraiva,Sergio Antonio Marques Lima,2,1
+Leonardo Figueiredo Saraiva,Ana Maria Pires,2,1
+Airton Germano Bispo Junior,Sergio Antonio Marques Lima,2,1
+Airton Germano Bispo Junior,Ana Maria Pires,2,1
+Guilherme Sombrio,José Antonio Souza,2,1
+Luis Henrique da Silveira Lacerda,Miguel San-Miguel,2,1
+Larissa de Oliveira Garcia Processo,Silvia Leticia Fernandes,2,1
+Larissa de Oliveira Garcia Processo,Carlos Frederico de Oliveira Graeff,2,1
+Silvia Leticia Fernandes,Carlos Frederico de Oliveira Graeff,2,1
+Roberto de Aguiar Ramos Jr.,Carlos Frederico de Oliveira Graeff,2,1
+Jamil Ur Rahman,Nayereh Soltani,2,1
+Jamil Ur Rahman,Matthias Schrade,2,1
+Jamil Ur Rahman,Anette Eleonora Gunnæs,2,1
+Patrícia Almeida Carvalho,Nayereh Soltani,2,1
+Patrícia Almeida Carvalho,Matthias Schrade,2,1
+Patrícia Almeida Carvalho,Anette Eleonora Gunnæs,2,1
+Nayereh Soltani,Matthias Schrade,2,1
+Nayereh Soltani,Anette Eleonora Gunnæs,2,1
+Matthias Schrade,Anette Eleonora Gunnæs,2,1
+Matthias Schrade,Terje Finstad,2,1
+Anette Eleonora Gunnæs,Terje Finstad,2,1
+Andre Luiz Martins de Freitas,José Antonio Souza,2,1
+Leonardo Carvalho Soares,Claudia Longo,2,1
+Luelc Souza Costa,Claudia Longo,2,1
+Tuani Carla Gentil,Aline Nakagawa do Nascimento,2,1
+Tuani Carla Gentil,Mirela Inês de Sairre,2,1
+Tuani Carla Gentil,Bruno Lemos Batista,2,1
+Tuani Carla Gentil,Mauro Coelho dos Santos,2,1
+Victor dos Santos Pinheiro,Felipe de Moura Souza,2,1
+Victor dos Santos Pinheiro,Aline Nakagawa do Nascimento,2,1
+Victor dos Santos Pinheiro,Mirela Inês de Sairre,2,1
+Victor dos Santos Pinheiro,Bruno Lemos Batista,2,1
+Victor dos Santos Pinheiro,Mauro Coelho dos Santos,2,1
+Felipe de Moura Souza,Aline Nakagawa do Nascimento,2,1
+Felipe de Moura Souza,Mirela Inês de Sairre,2,1
+Felipe de Moura Souza,Bruno Lemos Batista,2,1
+Felipe de Moura Souza,Mauro Coelho dos Santos,2,1
+Aline Nakagawa do Nascimento,Mirela Inês de Sairre,2,1
+Aline Nakagawa do Nascimento,Bruno Lemos Batista,2,1
+Aline Nakagawa do Nascimento,Mauro Coelho dos Santos,2,1
+Mirela Inês de Sairre,Bruno Lemos Batista,2,1
+Mirela Inês de Sairre,Mauro Coelho dos Santos,2,1
+Bruno Lemos Batista,Mauro Coelho dos Santos,2,1
+Maykel dos Santos Klem,Gabriel Leonardo Nogueira,2,1
+Maykel dos Santos Klem,Neri Alves,4,1
+Gabriel Leonardo Nogueira,Neri Alves,4,1
+Aryane Tofanello,Ariany Bonadio,2,1
+FERNANDO PEREIRA SABINO,Gustavo Dalpian,3,1
+Moyses Araujo,Cleber F. N. Marchiori,2,1
+Talitha Ramos Canabarra dos Santos,Lucimara Stolz Roman,2,1
+MAHMOUD SALEH MOHAMMED AL KATHY,José Antonio Eiras,2,1
+STHEFANY ZAIDA SILVA DO AMPARO,Cláudia Karina Barbosa de Vasconcelos,2,1
+STHEFANY ZAIDA SILVA DO AMPARO,Laryssa E. B. Sena,2,1
+STHEFANY ZAIDA SILVA DO AMPARO,Glaura Goulart Silva,2,1
+STHEFANY ZAIDA SILVA DO AMPARO,Marcelo Machado Viana,2,1
+Cláudia Karina Barbosa de Vasconcelos,Laryssa E. B. Sena,2,1
+Cláudia Karina Barbosa de Vasconcelos,Glaura Goulart Silva,2,1
+Cláudia Karina Barbosa de Vasconcelos,Marcelo Machado Viana,2,1
+Aline Ingrid Alves dos Reis Almeida,Laryssa E. B. Sena,2,1
+Aline Ingrid Alves dos Reis Almeida,Glaura Goulart Silva,2,1
+Aline Ingrid Alves dos Reis Almeida,Marcelo Machado Viana,2,1
+Laryssa E. B. Sena,Glaura Goulart Silva,2,1
+Laryssa E. B. Sena,Marcelo Machado Viana,2,1
+Glaura Goulart Silva,Marcelo Machado Viana,2,1
+Leandro Benatto,Cesar Augusto Machado Moraes,2,1
+Leandro Benatto,Graziâni Candiotto,2,1
+Leandro Benatto,Marlus Koehler,2,1
+Graziâni Candiotto,Marlus Koehler,2,1
+João Paulo Araújo Souza,Marlus Koehler,2,1
+Guilherme Boenny Strapasson,Daniel Eduardo Weibel,4,1
+Gabriela Silva Bonugli,Luana Taís Puhl Schneider,2,1
+Gabriela Silva Bonugli,Natália de Freitas Daudt,2,1
+Luana Taís Puhl Schneider,Natália de Freitas Daudt,2,1
+Fernanda Signor,Natália de Freitas Daudt,2,1
+Loren Mora Pastrana,José Enrique Eirez Izquierdo,2,1
+Loren Mora Pastrana,Fernando Josepetti Fonseca,2,1
+José Enrique Eirez Izquierdo,Dennis Cabrera García,2,1
+José Enrique Eirez Izquierdo,Marco Roberto Cavallari,3,1
+José Enrique Eirez Izquierdo,Fernando Josepetti Fonseca,4,1
+Dennis Cabrera García,Marco Roberto Cavallari,3,1
+Dennis Cabrera García,Fernando Josepetti Fonseca,3,1
+Marco Roberto Cavallari,Fernando Josepetti Fonseca,4,1
+Rodrigo Szostak,Ana Flávia Nogueira,4,1
+Victor Hugo de Souza Lima,Gutemberg Gomes Alves,2,1
+Victor Hugo de Souza Lima,Alexandre Malta Rossi,2,1
+Gutemberg Gomes Alves,Alexandre Malta Rossi,3,1
+Romildo Jerônimo Ramos,Alexandre Marletta,2,1
+Romildo Jerônimo Ramos,Eralci Moreira Therézio,2,1
+THOMAS EZEQUIEL AMARAL GOMES,THAINA KELLY DOS SANTOS SILVA,2,1
+THOMAS EZEQUIEL AMARAL GOMES,Andrea Vasconcelos Ferraz,2,1
+THOMAS EZEQUIEL AMARAL GOMES,Amanda Alves Barbosa,2,1
+THAINA KELLY DOS SANTOS SILVA,Andrea Vasconcelos Ferraz,2,1
+THAINA KELLY DOS SANTOS SILVA,Amanda Alves Barbosa,2,1
+Andrea Vasconcelos Ferraz,Amanda Alves Barbosa,2,1
+Aryane Tofanello,Iseli Lourenço Nantes-Cardoso,3,1
+Fernanda Roberta Marciano,Anderson Oliveira Lobo,3,1
+Isabelle Brigaud,Tatiana Petithory,2,1
+Antonio Augusto G. von Zuben,Monica Alonso Cotta,2,1
+Janine Karla França da Silva Braz,Clodomiro Alves Junior,2,1
+Janine Karla França da Silva Braz,Carlos Eduardo Bezerra de Moura,2,1
+Gabriel de Moura Martins,Jussier de Oliveira Vitoriano,3,1
+Gabriel de Moura Martins,Clodomiro Alves Junior,3,1
+Gabriel de Moura Martins,Carlos Eduardo Bezerra de Moura,3,1
+Jussier de Oliveira Vitoriano,Hugo Alexandre de Oliveira Rocha,2,1
+Jussier de Oliveira Vitoriano,Clodomiro Alves Junior,3,1
+Jussier de Oliveira Vitoriano,Carlos Eduardo Bezerra de Moura,4,1
+Hugo Alexandre de Oliveira Rocha,Carlos Eduardo Bezerra de Moura,2,1
+Clodomiro Alves Junior,Carlos Eduardo Bezerra de Moura,4,1
+Joan OConnor,Guido Rezende de Alencastro Graça,2,1
+Joan OConnor,Claudio Teodoro dos Santos,2,1
+Joan OConnor,Maurício de Jesus Monteiro,2,1
+Cristiane Evelise Ribeiro da Silva,Guido Rezende de Alencastro Graça,2,1
+Cristiane Evelise Ribeiro da Silva,Claudio Teodoro dos Santos,2,1
+Cristiane Evelise Ribeiro da Silva,Maurício de Jesus Monteiro,2,1
+Guido Rezende de Alencastro Graça,Claudio Teodoro dos Santos,2,1
+Guido Rezende de Alencastro Graça,Maurício de Jesus Monteiro,2,1
+Claudio Teodoro dos Santos,Maurício de Jesus Monteiro,2,1
+Camila Bussola Tovani,Pietro Ciancaglini,2,1
+Camila Bussola Tovani,Ana Paula Ramos,2,1
+Pietro Ciancaglini,Ana Paula Ramos,3,1
+Eralci Moreira Therézio,Paulo Ernesto Marchezi,2,1
+Eralci Moreira Therézio,Ana Flávia Nogueira,3,1
+José Carlos Germino,Ana Flávia Nogueira,2,1
+Paulo Ernesto Marchezi,Ana Flávia Nogueira,2,1
+Leonnam Gotardo Merizio,Andrea Simone Stucchi de Camargo,3,1
+Thiago Augusto Lodi,Andrea Simone Stucchi de Camargo,2,1
+Francisco Mateus Cirilo da Silva,Helio Cesar Nogueira Tolentino,2,1
+Rodrigo Szostak,Helio Cesar Nogueira Tolentino,2,1
+Juliana Pires de Souza,Júlio César Martins Silva,2,1
+Juliana Pires de Souza,Odivaldo Cambraia Alves,2,1
+Alexsandro dos Santos Evangelista da Cruz,Kleber Roberto Pirota,2,1
+Alexsandro dos Santos Evangelista da Cruz,Fanny Béron,2,1
+Raul Back Campanelli,Kleber Roberto Pirota,2,1
+Raul Back Campanelli,Fanny Béron,2,1
+Kleber Roberto Pirota,Fanny Béron,2,1
+Ricardo Vignoto Fernandes,Edson Laureto,2,1
+Marcos Vinicius Puydinger dos Santos,Kleber Roberto Pirota,2,1
+Marcos Vinicius Puydinger dos Santos,Fanny Béron,2,1
+Bianca Monserrat Galeano Villar,Richard Javier Caraballo-Vivas,2,1
+Bianca Monserrat Galeano Villar,Evelyn Christyan da Silva Santos,2,1
+Bianca Monserrat Galeano Villar,Flávio Garcia,2,1
+Richard Javier Caraballo-Vivas,Evelyn Christyan da Silva Santos,3,1
+Richard Javier Caraballo-Vivas,Noemi Raquel Checca Huaman,2,1
+Richard Javier Caraballo-Vivas,Flávio Garcia,3,1
+Evelyn Christyan da Silva Santos,Sara Gemini Piperni,3,1
+Evelyn Christyan da Silva Santos,Priscilla Vanessa Finotelli,4,1
+Evelyn Christyan da Silva Santos,Noemi Raquel Checca Huaman,2,1
 Evelyn Christyan da Silva Santos,Flávio Garcia,5,1
+Sara Gemini Piperni,Priscilla Vanessa Finotelli,4,1
+Noemi Raquel Checca Huaman,Flávio Garcia,2,1
+Pamela Costa Carvalho,Ivan de Paula Miranda,2,1
+Pamela Costa Carvalho,Angela Burlamaqui Klautau,2,1
+Pamela Costa Carvalho,Helena Maria Petrilli,2,1
+Ivan de Paula Miranda,Angela Burlamaqui Klautau,2,1
+Ivan de Paula Miranda,Helena Maria Petrilli,3,1
+Angela Burlamaqui Klautau,Helena Maria Petrilli,2,1
+Luciane Effting,César Ricardo Teixeira Tarley,2,1
+Caroline Teixeira Lopes,César Ricardo Teixeira Tarley,3,1
+Bruno Gomes Silva,Cilene Labre,2,1
+Bruno Gomes Silva,Rubem Luis Sommer,2,1
+Cilene Labre,Rubem Luis Sommer,3,1
+Lincoln Brum Leite Gusmão Pinheiro,Alejandro V. Silhanek,2,1
+Lincoln Brum Leite Gusmão Pinheiro,Wilson Aires Ortiz,2,1
+Maycon Motta,Wilson Aires Ortiz,2,1
+Milena do Prado Ferreira,César Ricardo Teixeira Tarley,3,1
+Luiza de Queiroz Corrêa,Gabriela Amorim Soares,2,1
+Bárbara Hellen de Souza Miranda,Gabriela Amorim Soares,2,1
+Andris Figueiroa Bakuzis,Ailton Sousa-Junior,2,1
+Andris Figueiroa Bakuzis,Sebastião A Mendanha,2,1
+Andris Figueiroa Bakuzis,José Ricardo de Arruda Miranda,2,1
+Andris Figueiroa Bakuzis,Elisângela P. Silveira-Lacerda,2,1
+Ailton Sousa-Junior,Sebastião A Mendanha,2,1
+Ailton Sousa-Junior,Elisângela P. Silveira-Lacerda,2,1
+Sebastião A Mendanha,Elisângela P. Silveira-Lacerda,2,1
+Marcos Antonio Eufrásio Cruz,Pietro Ciancaglini,2,1
+Marcos Antonio Eufrásio Cruz,Ana Paula Ramos,2,1
+Evandro Guilherme de Souza Zanni,Antonio Jorge Abdalla,2,1
+Ana Teresa Harada,Antonio Jorge Abdalla,2,1
+Ana Cristina Marques,Filipe Silva,2,1
+Ana Cristina Marques,Óscar Carvalho,2,1
+Filipe Silva,Óscar Carvalho,2,1
+Vagner Luiz Oliveira de Freitas,Bruno de Pinho Alho,2,1
+Vagner Luiz Oliveira de Freitas,Paula de Oliveira Ribeiro Alho,2,1
+Vagner Luiz Oliveira de Freitas,Vinicius de Sousa,2,1
+Vagner Luiz Oliveira de Freitas,Pedro Jorge von Ranke,2,1
+Vagner Luiz Oliveira de Freitas,Eduardo Pilad Nóbrega,2,1
+Vagner Luiz Oliveira de Freitas,Samir Santos Costa,2,1
+Bruno de Pinho Alho,Paula de Oliveira Ribeiro Alho,2,1
+Bruno de Pinho Alho,Vinicius de Sousa,2,1
+Bruno de Pinho Alho,Pedro Jorge von Ranke,2,1
+Bruno de Pinho Alho,Eduardo Pilad Nóbrega,2,1
+Paula de Oliveira Ribeiro Alho,Vinicius de Sousa,2,1
+Paula de Oliveira Ribeiro Alho,Pedro Jorge von Ranke,2,1
+Paula de Oliveira Ribeiro Alho,Eduardo Pilad Nóbrega,2,1
+Vinicius de Sousa,Eduardo Pilad Nóbrega,2,1
+Pedro Jorge von Ranke,Eduardo Pilad Nóbrega,2,1
+Adrianne Marlise Mendes Brito,Julia Delatorre Bronzato,2,1
 Adrianne Marlise Mendes Brito,Iseli Lourenço Nantes-Cardoso,5,1
+Adrianne Marlise Mendes Brito,Silgia Aparecida Costa,3,1
+Adrianne Marlise Mendes Brito,Sirlene Maria da Costa,2,1
+Julia Delatorre Bronzato,Martha T. Oliveira,2,1
+Julia Delatorre Bronzato,Iseli Lourenço Nantes-Cardoso,4,1
+Julia Delatorre Bronzato,Silgia Aparecida Costa,3,1
+Julia Delatorre Bronzato,Sirlene Maria da Costa,2,1
+Martha T. Oliveira,Iseli Lourenço Nantes-Cardoso,2,1
+Martha T. Oliveira,Silgia Aparecida Costa,2,1
+Silgia Aparecida Costa,Sirlene Maria da Costa,2,1
+Narayan Sahoo,Óscar Carvalho,2,1
+Narayan Sahoo,Filipe Silva,2,1
+Regiane Santana de Oliveira,Isabela Machado Horta,2,1
+Regiane Santana de Oliveira,Bárbara Souza Damasceno,2,1
+Regiane Santana de Oliveira,Argemiro Soares da Silva Sobrinho,2,1
+Regiane Santana de Oliveira,Douglas Marcel Gonçalves Leite,3,1
+Isabela Machado Horta,Bárbara Souza Damasceno,2,1
+Isabela Machado Horta,Argemiro Soares da Silva Sobrinho,2,1
+Isabela Machado Horta,Douglas Marcel Gonçalves Leite,3,1
+Bárbara Souza Damasceno,Argemiro Soares da Silva Sobrinho,3,1
+Bárbara Souza Damasceno,Douglas Marcel Gonçalves Leite,4,1
+Argemiro Soares da Silva Sobrinho,Douglas Marcel Gonçalves Leite,2,1
+Marco Isaias Alayo,Davinson Mariano da Silva,2,1
+Raquel Alvim Figueiredo Mansur,Daolun Chen,2,1
+Raquel Alvim Figueiredo Mansur,Milton Sergio Fernandes de Lima,2,1
+Vágner Braga,Daolun Chen,2,1
+Vágner Braga,Milton Sergio Fernandes de Lima,3,1
+Daolun Chen,Milton Sergio Fernandes de Lima,2,1
+Bárbara Souza Damasceno,André Luis de Jesus Pereira,3,1
+Regiane Santana de Oliveira,André Luis de Jesus Pereira,2,1
+Isabela Machado Horta,André Luis de Jesus Pereira,2,1
+Argemiro Soares da Silva Sobrinho,André Luis de Jesus Pereira,2,1
+André Luis de Jesus Pereira,Douglas Marcel Gonçalves Leite,3,1
+André Gasparotto Pelosi,Cleber Renato Mendonca,2,1
+Leandro Henrique Zucolotto Cocca,Lino Misoguti,2,1
+Leandro Henrique Zucolotto Cocca,Leonardo De Boni,3,1
+Leandro Henrique Zucolotto Cocca,Cleber Renato Mendonca,3,1
+Luis Miguel Gomes Abegão,Lino Misoguti,2,1
+Luis Miguel Gomes Abegão,Leonardo De Boni,2,1
+Luis Miguel Gomes Abegão,Cleber Renato Mendonca,2,1
+Lucas Fiocco Sciuti,Lino Misoguti,2,1
+Lucas Fiocco Sciuti,Leonardo De Boni,3,1
+Lucas Fiocco Sciuti,Cleber Renato Mendonca,3,1
+Lino Misoguti,Leonardo De Boni,2,1
+Lino Misoguti,Cleber Renato Mendonca,2,1
+Sabrina Nicoleti Carvalho dos Santos,Antonio Carlos Hernandes,2,1
+Sabrina Nicoleti Carvalho dos Santos,Juliana Mara Pinto de Almeida,2,1
+Sabrina Nicoleti Carvalho dos Santos,Cleber Renato Mendonca,4,1
+Antonio Carlos Hernandes,Cleber Renato Mendonca,2,1
+Juliana Mara Pinto de Almeida,Cleber Renato Mendonca,2,1
+Kelly Tasso de Paula,Cleber Renato Mendonca,2,1
+Matheus Cavalcanti dos Santos Nunes,Elisabeth Mateus Yoshimura,2,1
+Lucas Fiocco Sciuti,Leandro Henrique Zucolotto Cocca,2,1
+Cleber Renato Mendonca,Leonardo De Boni,2,1
+Felipe Leon Nascimento de Sousa,Petrus Santa-Cruz,2,1
+Julia Delatorre Bronzato,Otaciro Rangel Nascimento,2,1
+Cedric Rocha Leão,Iseli Lourenço Nantes-Cardoso,2,1
+Otaciro Rangel Nascimento,Iseli Lourenço Nantes-Cardoso,2,1
+Thibaut Robine,Wilfried Blanc,2,1
+Thibaut Robine,Franck Pigeonneau,2,1
+Zhuorui Lu,Wilfried Blanc,2,1
+Zhuorui Lu,Franck Pigeonneau,2,1
+JONATHAS MATIAS DE OLIVEIRA,Eduardo Jorge da Silva Fonseca,2,1
+Laura Maísa Souza dos Santos,Eduardo Jorge da Silva Fonseca,2,1
+Suzana Azevedo dos Anjos,Elena Tude,2,1
+Suzana Azevedo dos Anjos,Alexandre Malta Rossi,2,1
 Elena Tude,Alexandre Malta Rossi,5,1
+Elton Alves de Moura,José Pedro Mansueto Serbena,2,1
+Elton Alves de Moura,Keli Fabiana Seidel,2,1
+José Pedro Mansueto Serbena,Keli Fabiana Seidel,2,1
+Zhuorui Lu,Thibaut Robine,2,1
+Angela Burlamaqui Klautau,Anders Bergman,2,1
+Renan Daniel Domingos,Fanny Béron,2,1
+Edésia Martins Barros Sousa,Waldemar Augusto de Almeida Macedo,2,1
+Rebeca da Rocha Rodrigues,Luciano Caseli,2,1
+Rebeca da Rocha Rodrigues,Laura Oliveira Péres,2,1
+Luciano Caseli,Laura Oliveira Péres,3,1
+Renê Santos de Amorim,Gisele Elias Nunes,2,1
+Renê Santos de Amorim,Pablo Cesar Serrano Arambulo,2,1
+Renê Santos de Amorim,Ivan H. Bechtold,3,1
+Gisele Elias Nunes,Ivan H. Bechtold,3,1
+Pablo Cesar Serrano Arambulo,Ivan H. Bechtold,3,1
+Pablo Cesar Serrano Arambulo,Gisele Elias Nunes,2,1
+Paulo Trindade Araujo,Newton Martins Barbosa Neto,4,1
+Sergio Fernando Curcio,Thiago Cazati,2,1
+André  Vieira,Thiago Cazati,2,1
+Wilson Aparecido de Oliveira,Eduard Westphal,2,1
+Talitha Ramos Canabarra dos Santos,Anna Gabriella Tempesta,2,1
+Talitha Ramos Canabarra dos Santos,Luiz Carlos Mariano,2,1
+Talitha Ramos Canabarra dos Santos,KAIKE ROSIVAN MAIA PACHECO,2,1
+Talitha Ramos Canabarra dos Santos,LUCIMARA STOLZ ROMAN,3,1
+Anna Gabriella Tempesta,Luiz Carlos Mariano,2,1
+Anna Gabriella Tempesta,KAIKE ROSIVAN MAIA PACHECO,2,1
+Anna Gabriella Tempesta,LUCIMARA STOLZ ROMAN,3,1
+Luiz Carlos Mariano,KAIKE ROSIVAN MAIA PACHECO,2,1
+Luiz Carlos Mariano,LUCIMARA STOLZ ROMAN,2,1
+KAIKE ROSIVAN MAIA PACHECO,LUCIMARA STOLZ ROMAN,2,1
+Tiago de Sousa Araujo Cassiano,Larissa dos Santos Born,2,1
 Tiago de Sousa Araujo Cassiano,Leonardo Evaristo de Sousa,5,1
 Tiago de Sousa Araujo Cassiano,Pedro Henrique de Oliveira Neto,6,1
+Fernando Teixeira Bueno,Larissa dos Santos Born,3,1
 Fernando Teixeira Bueno,Leonardo Evaristo de Sousa,6,1
 Fernando Teixeira Bueno,Pedro Henrique de Oliveira Neto,6,1
 Larissa dos Santos Born,Leonardo Evaristo de Sousa,5,1
 Larissa dos Santos Born,Pedro Henrique de Oliveira Neto,6,1
 Leonardo Evaristo de Sousa,Pedro Henrique de Oliveira Neto,9,1
+Vinicius Alves Bastos,Tales José da Silva,2,1
+Vinicius Alves Bastos,Marília J. Caldas,2,1
+Tales José da Silva,Marília J. Caldas,2,1
+Syed Adnan Raza,Diego Ernesto González-Chávez,2,1
+Syed Adnan Raza,Rubem Luis Sommer,2,1
+Diego Ernesto González-Chávez,Rubem Luis Sommer,3,1
+Douglas Henrique Vieira,Neri Alves,2,1
+Gabriel Leonardo Nogueira,Maykel dos Santos Klem,2,1
+Deuber L. S. Agostini,Clarissa de Almeida Olivati,2,1
+Maria Luisa Braunger,Flávio Makoto Shimizu,2,1
+Maria Luisa Braunger,Osvaldo Novais de Oliveira Junior,2,1
+Maria Luisa Braunger,Antonio Riul Jr.,2,1
+Flávio Makoto Shimizu,Osvaldo Novais de Oliveira Junior,2,1
+Flávio Makoto Shimizu,Antonio Riul Jr.,2,1
+Osvaldo Novais de Oliveira Junior,Antonio Riul Jr.,3,1
+Cristina Henriques Gaspar,Luís Miguel Pereira,2,1
+Anderson Emanuel Ximim Gavim,Wilson José Da Silva,3,1
+Anderson Emanuel Ximim Gavim,Jeferson Ferreira de Deus,2,1
+João Batista Floriano,Paula Cristina Rodrigues,2,1
+Wilson José Da Silva,Jeferson Ferreira de Deus,2,1
+Douglas Jose Coutinho,Roberto Mendonça Faria,2,1
+Deuber L. S. Agostini,Roger C Hiorns,3,1
+Bruno Henrique de Santana Gois,Roger C Hiorns,2,1
+Bruno Henrique de Santana Gois,Clarissa Almeida Olivati,2,1
+Bruno Henrique de Santana Gois,Deuber L. S. Agostini,2,1
+Roger C Hiorns,Clarissa Almeida Olivati,3,1
+Roger C Hiorns,Deuber L. S. Agostini,2,1
+Clarissa Almeida Olivati,Deuber L. S. Agostini,3,1
+Juliana Coatrini Soares,Osvaldo Novais de Oliveira Junior,2,1
+Andrey Coatrini Soares,Osvaldo Novais de Oliveira Junior,4,1
+Andrey Coatrini Soares,Luiz Henrique Capparelli Mattoso,2,1
+Osvaldo Novais de Oliveira Junior,Luiz Henrique Capparelli Mattoso,2,1
+Florian Steffen Günther,Gregório Couto Faria,2,1
+Carlos Henrique Stadtlober,José Eduardo Silva Olegário,2,1
+Carlos Henrique Stadtlober,Daniela Zambelli Mezalira,2,1
+Carlos Henrique Stadtlober,Harald Bock,2,1
+Carlos Henrique Stadtlober,Juliana Eccher,2,1
+José Eduardo Silva Olegário,Daniela Zambelli Mezalira,2,1
+José Eduardo Silva Olegário,Harald Bock,2,1
+José Eduardo Silva Olegário,Juliana Eccher,2,1
+Daniela Zambelli Mezalira,Harald Bock,2,1
+Daniela Zambelli Mezalira,Juliana Eccher,2,1
+Harald Bock,Juliana Eccher,2,1
+Jefferson Marcio Sanches Lopes,Antônio  Eduardo Hora Machado,2,1
+Jefferson Marcio Sanches Lopes,Alzir Azevedo Batista,2,1
+Jefferson Marcio Sanches Lopes,Paulo Trindade Araujo,2,1
+Jefferson Marcio Sanches Lopes,Newton Martins Barbosa Neto,2,1
+Antônio  Eduardo Hora Machado,Alzir Azevedo Batista,2,1
+Antônio  Eduardo Hora Machado,Paulo Trindade Araujo,2,1
+Antônio  Eduardo Hora Machado,Newton Martins Barbosa Neto,2,1
+Alzir Azevedo Batista,Paulo Trindade Araujo,2,1
+Alzir Azevedo Batista,Newton Martins Barbosa Neto,2,1
+Henrique Frulani de Paula Barbosa,Gregório Couto Faria,3,1
+Germán Darío Gómez Higuita,Gregório Couto Faria,2,1
+Lanna Isabely Morais Sinimbu,Guilherme Severino Mendes de Araújo,2,1
+Lanna Isabely Morais Sinimbu,Ángel Alberto Hidalgo,2,1
+Lanna Isabely Morais Sinimbu,Maria Leticia Vega,2,1
+Ángel Alberto Hidalgo,Maria Leticia Vega,2,1
+Anderson Emanuel Ximim Gavim,Andreia Gerniski Macedo,2,1
+Anderson Emanuel Ximim Gavim,Abd. Rashid bin Mohd Yusoff,2,1
+Sajjad Ullah,Elias Paiva Ferreira Neto,2,1
+Sajjad Ullah,Sidney JL Ribeiro,4,1
+Elias Paiva Ferreira Neto,Sidney JL Ribeiro,4,1
+Maria de Almeida Silva,César Ricardo Teixeira Tarley,3,1
+Maria de Almeida Silva,Mariana Gava Segatelli,2,1
+Felipe Augusto Gorla,César Ricardo Teixeira Tarley,2,1
+César Ricardo Teixeira Tarley,Mariana Gava Segatelli,4,1
+Lauro Paulo da Silva Neto,Eduardo Antonelli,2,1
+Daniel Zanetti de Florio,Fabio Coral Fonseca,2,1
+Eliana Navarro dos Santos Muccillo,Reginaldo Muccillo,2,1
+Celso Antonio Goulart,Márcio Raymundo Morelli,2,1
+Celso Antonio Goulart,Dulcina Pinatti Ferreira de Souza,2,1
+Márcio Raymundo Morelli,Dulcina Pinatti Ferreira de Souza,2,1
+Karolaine Ramada Neves,Bacus de Oliveira Nahime,2,1
+Karolaine Ramada Neves,Lorena Araújo Silva,2,1
+Bacus de Oliveira Nahime,Lorena Araújo Silva,2,1
+Eduardo Azzolini Volnistem,Gustavo Sanguino Dias,4,1
 Eduardo Azzolini Volnistem,Ivair Aparecido Santos,5,1
 Gustavo Sanguino Dias,Ivair Aparecido Santos,5,1
+Kethlinn Ramos,Adilson Luiz Chinelatto,2,1
+Kethlinn Ramos,Adriana Scoton Chinelatto,2,1
+Ana Carolyne da Silva Pereira,Flávia Regina Estrada,2,1
+Ana Carolyne da Silva Pereira,Fabio Luis Zabotto,3,1
+Ana Carolyne da Silva Pereira,José Antonio Eiras,2,1
+Ana Carolyne da Silva Pereira,Manuel Henrique Lente,3,1
+Flávia Regina Estrada,Manuel Henrique Lente,2,1
+Fabio Luis Zabotto,Manuel Henrique Lente,2,1
+José Antonio Eiras,Manuel Henrique Lente,3,1
+Guilherme Oliveira Teixeira,Tania Maria Haas Costa,2,1
+Guilherme Oliveira Teixeira,Leliz Ticona Arenas,2,1
+Lucas Eduardo Sasso,Tania Maria Haas Costa,2,1
+Lucas Eduardo Sasso,Leliz Ticona Arenas,2,1
+Tania Maria Haas Costa,Edilson Valmir Benvenutti,2,1
+Tania Maria Haas Costa,Leliz Ticona Arenas,2,1
+Regiane Cristina Oliveira,Elson Longo,2,1
+Gabriel Vinícius Brambilla,Andrea Simone Stucchi de Camargo,2,1
+Marylyn Setsuko Arai,Leonnam Gotardo Merizio,2,1
+Marylyn Setsuko Arai,Andrea Simone Stucchi de Camargo,3,1
+Gabriela Martins de Araújo,Fábio Ruiz Simões,2,1
+Gabriela Martins de Araújo,Milton Alexandre Cardoso,2,1
+Fábio Ruiz Simões,Milton Alexandre Cardoso,2,1
+João Vitor Pereira Alves,Márcio Vilar França Lima,2,1
+João Vitor Pereira Alves,José Ângelo Peixoto da Costa,2,1
+Lucas Covello de Freitas,Márcio Vilar França Lima,2,1
+Lucas Covello de Freitas,José Ângelo Peixoto da Costa,2,1
 Aldebarã Fausto Ferreira,Walter Mendes de Azevedo,5,1
+Aldebarã Fausto Ferreira,Eduardo Henrique Lago Falcão,2,1
+Daniel Morais Nanicuacua,César Ricardo Teixeira Tarley,2,1
 Luan Pereira Camargo,Luiz Henrique Dall&#039;Antonia,6,1
+Luan Pereira Camargo,César Ricardo Teixeira Tarley,2,1
+Luiz Henrique Dall&#039;Antonia,César Ricardo Teixeira Tarley,2,1
+Franciele de Matos Morawski,Kelline Alaide Pereira Sousa,2,1
+Franciele de Matos Morawski,Alexandre Luis Parize,2,1
+Franciele de Matos Morawski,Cristiane Luisa Jost,2,1
+Kelline Alaide Pereira Sousa,Alexandre Luis Parize,2,1
+Kelline Alaide Pereira Sousa,Cristiane Luisa Jost,2,1
+Alexandre Luis Parize,Cristiane Luisa Jost,2,1
+Diego Onna,Sara Aldabe Bilmes,2,1
+Keyla M. Fuentes,Sara Aldabe Bilmes,2,1
+Elias Paiva Ferreira Neto,Sajjad Ullah,2,1
+Elias Paiva Ferreira Neto,Thais Caroline Almeida da Silva,2,1
+Elias Paiva Ferreira Neto,Amanda Pasquoto Perissinotto,3,1
+Elias Paiva Ferreira Neto,Fabio Simões de Vicente,3,1
 Elias Paiva Ferreira Neto,Ubirajara Pereira Rodrigues Filho,6,1
+Sajjad Ullah,Thais Caroline Almeida da Silva,2,1
+Sajjad Ullah,Amanda Pasquoto Perissinotto,2,1
+Sajjad Ullah,Fabio Simões de Vicente,2,1
+Sajjad Ullah,Ubirajara Pereira Rodrigues Filho,3,1
+Thais Caroline Almeida da Silva,Ubirajara Pereira Rodrigues Filho,2,1
+Thais Caroline Almeida da Silva,Sidney JL Ribeiro,2,1
+Amanda Pasquoto Perissinotto,Fabio Simões de Vicente,3,1
+Amanda Pasquoto Perissinotto,Ubirajara Pereira Rodrigues Filho,4,1
+Amanda Pasquoto Perissinotto,Sidney JL Ribeiro,2,1
+Fabio Simões de Vicente,Ubirajara Pereira Rodrigues Filho,3,1
+Fabio Simões de Vicente,Sidney JL Ribeiro,2,1
+Ubirajara Pereira Rodrigues Filho,Sidney JL Ribeiro,2,1
+Marco Roberto Cavallari,Ioannis Kymissis,2,1
+José Enrique Eirez Izquierdo,Ioannis Kymissis,2,1
+Ioannis Kymissis,Fernando Josepetti Fonseca,2,1
+Marcelo de Assunção Pereira-da-Silva,VARLEI RODRIGUES,2,1
+Amanda Akemy Komorizono,Valmor Roberto Mastelaro,2,1
+Bruno Sanches de Lima,Valmor Roberto Mastelaro,2,1
+Rafael C. Hensel,Osvaldo Novais de Oliveira Junior,2,1
+Rafael C. Hensel,Matthias Hillenkamp,3,1
+Rafael C. Hensel,Antonio Riul Jr.,3,1
+Rafael C. Hensel,VARLEI RODRIGUES,3,1
+Osvaldo Novais de Oliveira Junior,VARLEI RODRIGUES,2,1
+Matthias Hillenkamp,Antonio Riul Jr.,3,1
+Matthias Hillenkamp,VARLEI RODRIGUES,3,1
+Antonio Riul Jr.,VARLEI RODRIGUES,3,1
+Souad Ammar,Nicolas Menguy,2,1
+Sophie Nowak,Jean-Marc GRENECHE,2,1
+Amanda Alvarenga Coutinho Silva,Patrick Anderson de Moraes Prado,2,1
+Amanda Alvarenga Coutinho Silva,Luciana De Simone Cividanes,2,1
+Thais Cardoso de Oliveira,Patrick Anderson de Moraes Prado,2,1
+Thais Cardoso de Oliveira,Luciana De Simone Cividanes,2,1
+Patrick Anderson de Moraes Prado,Luciana De Simone Cividanes,2,1
+Thiago de Souza Lamim,Tatiana Bendo,2,1
+Thiago de Souza Lamim,Cristiano Binder,2,1
+Tatiana Bendo,Aloisio Nelmo Klein,2,1
+Tatiana Bendo,Cristiano Binder,3,1
+Larissa dos Santos Born,Tiago de Sousa Araujo Cassiano,2,1
+Rafael Parra Ribeiro,Nilson C. Cruz,3,1
+Érica Signori Romagnoli,César Ricardo Teixeira Tarley,2,1
+Érica Signori Romagnoli,Mariana Gava Segatelli,2,1
+Cibely Silva Martin,Carlos José Leopoldo Constantino,2,1
+Armstrong Godoy Junior,Douglas Marcel Gonçalves Leite,3,1
+Armstrong Godoy Junior,Argemiro Soares da Silva Sobrinho,3,1
+Douglas Marcel Gonçalves Leite,Argemiro Soares da Silva Sobrinho,3,1
+Leandro Piaggi Ravaro,Andrea Simone Stucchi de Camargo,2,1
+Marcelo Fernandes Cipreste,Edésia Martins Barros Sousa,2,1
+Rafael Parra Ribeiro,Elidiane Cipriano Rangel,2,1
+Nilson C. Cruz,Elidiane Cipriano Rangel,4,1
+Rita de Cassia Mendonca Sales,Geraldo Maurício Cândido,2,1
+Rita de Cassia Mendonca Sales,Mauricio Vicente Donadon,2,1
+Geraldo Maurício Cândido,Mauricio Vicente Donadon,2,1
+Jéssica Helisa Hautrive Rossato,Marcia Tsuyama Escote,2,1
+Luana Rianne da Rocha,César Ricardo Teixeira Tarley,2,1
+Maiyara Carolyne Prete,César Ricardo Teixeira Tarley,3,1
+Rafael C. Hensel,Maria Helena Gonçalves de Souza,2,1
+Maria Helena Gonçalves de Souza,Matthias Hillenkamp,2,1
+Maria Helena Gonçalves de Souza,Antonio Riul Jr.,2,1
+Maria Helena Gonçalves de Souza,VARLEI RODRIGUES,2,1
+Juliana Jarussi dos Santos,Ubirajara Pereira Rodrigues Filho,2,1
+Leticia Alana Bertoldo,César Ricardo Teixeira Tarley,2,1
+Paula Mantovani dos Santos,César Ricardo Teixeira Tarley,3,1
+Jussara Soares da Silva,Elson Longo,4,1
 Marcelo de Assis,Elson Longo,8,1
+Thales Rafael Machado,Eloisa Cordoncillo,2,1
+Thales Rafael Machado,Juan Andrés,2,1
+Thales Rafael Machado,Elson Longo,4,1
+Roman Alvarez Roca,Elson Longo,2,1
+Marcelo de Assis,Miguel San-Miguel,2,1
 Marcelo de Assis,Juan Andrés,5,1
+Eloisa Cordoncillo,Elson Longo,2,1
+Juan Andrés,Elson Longo,3,1
+Wilian Vidotto da Costa,Daniela Martins Fernandes de Oliveira,3,1
+Wilian Vidotto da Costa,Ana Adelina Winkler Hechenleitner,3,1
+Wilian Vidotto da Costa,Edgardo Alfonso Gómez Pineda,3,1
 Angélica Gonçalves Oliveira,Daniela Martins Fernandes de Oliveira,6,1
 Angélica Gonçalves Oliveira,Ana Adelina Winkler Hechenleitner,6,1
 Angélica Gonçalves Oliveira,Edgardo Alfonso Gómez Pineda,6,1
 Ana Adelina Winkler Hechenleitner,Edgardo Alfonso Gómez Pineda,6,1
+Vicente Gerlin Neto,César Renato Foschini,2,1
+Felipe Dias Faglioni,Cristian Guilherme Barbosa Pereira,2,1
+Felipe Dias Faglioni,César Renato Foschini,2,1
+Cristian Guilherme Barbosa Pereira,César Renato Foschini,2,1
+Regina Bertília Dantas de Medeiros,Meysam Mashhadikarimi,3,1
+Regina Bertília Dantas de Medeiros,Uílame Umbelino Gomes,3,1
+Meysam Mashhadikarimi,Uílame Umbelino Gomes,3,1
+Thomas L. Ellington,Kevin L. Shuford,3,1
 Alexandra Ancelmo Piscitelli Mansur,Herman Sander Mansur,5,1
+Elton Ogoshi de Melo,Carlos Mera Acosta,2,1
+Elton Ogoshi de Melo,GUSTAVO MARTINI DALPIAN,2,1
+Carlos Mera Acosta,GUSTAVO MARTINI DALPIAN,2,1
+Daiana Sígolo Pimenta,Adriana Barbosa Salviano,2,1
+Daiana Sígolo Pimenta,Paula Sevenini Pinto,2,1
+Daiana Sígolo Pimenta,Vinícius Fernando Coelho Sampaio,2,1
+Daiana Sígolo Pimenta,Thamires Luciana Braz Alves,2,1
+Daiana Sígolo Pimenta,Fabrício Vilela Parreira,2,1
+Daiana Sígolo Pimenta,Ana Paula de Carvalho Teixeira,2,1
+Daiana Sígolo Pimenta,Rochel Montero Lago,2,1
+Adriana Barbosa Salviano,Vinícius Fernando Coelho Sampaio,2,1
+Adriana Barbosa Salviano,Thamires Luciana Braz Alves,2,1
+Adriana Barbosa Salviano,Fabrício Vilela Parreira,2,1
+Adriana Barbosa Salviano,Ana Paula de Carvalho Teixeira,2,1
+Adriana Barbosa Salviano,Rochel Montero Lago,2,1
+Paula Sevenini Pinto,Vinícius Fernando Coelho Sampaio,2,1
+Paula Sevenini Pinto,Thamires Luciana Braz Alves,2,1
+Paula Sevenini Pinto,Fabrício Vilela Parreira,2,1
+Paula Sevenini Pinto,Ana Paula de Carvalho Teixeira,2,1
+Paula Sevenini Pinto,Rochel Montero Lago,2,1
+Vinícius Fernando Coelho Sampaio,Thamires Luciana Braz Alves,2,1
+Vinícius Fernando Coelho Sampaio,Fabrício Vilela Parreira,2,1
+Vinícius Fernando Coelho Sampaio,Ana Paula de Carvalho Teixeira,2,1
+Vinícius Fernando Coelho Sampaio,Rochel Montero Lago,2,1
+Thamires Luciana Braz Alves,Fabrício Vilela Parreira,2,1
+Thamires Luciana Braz Alves,Ana Paula de Carvalho Teixeira,2,1
+Thamires Luciana Braz Alves,Rochel Montero Lago,2,1
+Fabrício Vilela Parreira,Ana Paula de Carvalho Teixeira,2,1
+Fabrício Vilela Parreira,Rochel Montero Lago,2,1
+Ana Paula de Carvalho Teixeira,Rochel Montero Lago,2,1
+Richard Javier Caraballo-Vivas,Flavio Garcia,2,1
+Evelyn Christyan da Silva Santos,Flavio Garcia,2,1
+Carla Marina Santos Feldhaus,Roseli Kunzel,3,1
+Carla Marina Santos Feldhaus,Ana Paula de Azevedo Marques,3,1
+Roseli Kunzel,Ana Paula de Azevedo Marques,3,1
+Jéssica Araujo Costa,Ana Paula de Azevedo Marques,2,1
+Evelyn Christyan da Silva Santos,Richard Javier Caraballo-Vivas,2,1
+Angélica Gonçalves Oliveira,Jessica de Lara Andrade,3,1
+Angélica Gonçalves Oliveira,Wilian Vidotto da Costa,2,1
+Jessica de Lara Andrade,Wilian Vidotto da Costa,2,1
 Jessica de Lara Andrade,Ana Adelina Winkler Hechenleitner,5,1
 Jessica de Lara Andrade,Edgardo Alfonso Gómez Pineda,5,1
 Jessica de Lara Andrade,Daniela Martins Fernandes de Oliveira,5,1
 Ana Adelina Winkler Hechenleitner,Daniela Martins Fernandes de Oliveira,5,1
 Edgardo Alfonso Gómez Pineda,Daniela Martins Fernandes de Oliveira,5,1
+Ana Rovisco,Rita Branquinho,2,1
+Ana Rovisco,Elvira Maria Correia Fortunato,2,1
+Ana Rovisco,Rodrigo Ferrão Martins,2,1
+Ana Rovisco,Pedro Barquinha,2,1
+Rita Branquinho,Elvira Maria Correia Fortunato,3,1
+Rita Branquinho,Rodrigo Ferrão Martins,2,1
+Rita Branquinho,Pedro Barquinha,2,1
+Tomas Freire,Elvira Maria Correia Fortunato,2,1
+Tomas Freire,Pedro Barquinha,2,1
+Elvira Maria Correia Fortunato,Pedro Barquinha,2,1
+Rodrigo Ferrão Martins,Pedro Barquinha,2,1
+Julieta Adriana Ferreira,Eliria Maria de Jesus Agnolon Pallone,2,1
+João Carlos Angelico,Nilton Francelosi Azevedo Neto,2,1
+João Carlos Angelico,José Humberto Dias da Silva,2,1
+Nilton Francelosi Azevedo Neto,José Humberto Dias da Silva,2,1
+Luis Paulo Mourão dos Santos,Igor Frota Vasconcelos,3,1
+Juliana Casares Araujo-Chaves,Iseli Lourenço Nantes-Cardoso,2,1
+José Antonio Souza,Iseli Lourenço Nantes-Cardoso,2,1
+Luiz Felipe Kaezmarek Pedrini,Luis Vicente de Andrade Scalvi,2,1
+Edson C.  Silva Filho,Pollyana Trigueiro,2,1
+Rosana Alves Gonçalves,Maurício Ribeiro Baldan,3,1
+Rosana Alves Gonçalves,Olivia Maria Berengue,3,1
+Maurício Ribeiro Baldan,Olivia Maria Berengue,3,1
+Guilherme Augusto Barros Gomes,Luiz Henrique Dall&#039;Antonia,2,1
+Helen Caroline de Souza Barros,Douglas Marcel Gonçalves Leite,2,1
+Helen Caroline de Souza Barros,André Luis de Jesus Pereira,2,1
+Helen Caroline de Souza Barros,Marcilene Cristina Gomes,2,1
+Helen Caroline de Souza Barros,Argemiro Soares da Silva Sobrinho,2,1
+Armstrong Godoy Junior,André Luis de Jesus Pereira,2,1
+Armstrong Godoy Junior,Marcilene Cristina Gomes,2,1
+André Luis de Jesus Pereira,Marcilene Cristina Gomes,2,1
+André Luis de Jesus Pereira,Argemiro Soares da Silva Sobrinho,2,1
+Marcilene Cristina Gomes,Argemiro Soares da Silva Sobrinho,2,1
+Jéssica Cristina de Almeida,Rafaella Hissae Koga,2,1
+Jéssica Cristina de Almeida,Douglas Mendes da Silva Del Duque,2,1
+Jéssica Cristina de Almeida,Gelson Tiago dos Santos Tavares Silva,2,1
+Jéssica Cristina de Almeida,Vagner Romito de Mendonça,2,1
+Rafaella Hissae Koga,Douglas Mendes da Silva Del Duque,2,1
+Rafaella Hissae Koga,Gelson Tiago dos Santos Tavares Silva,2,1
+Rafaella Hissae Koga,Vagner Romito de Mendonça,2,1
+Douglas Mendes da Silva Del Duque,Gelson Tiago dos Santos Tavares Silva,2,1
+Douglas Mendes da Silva Del Duque,Vagner Romito de Mendonça,2,1
+Gelson Tiago dos Santos Tavares Silva,Vagner Romito de Mendonça,2,1
+Gelson Tiago dos Santos Tavares Silva,Caue Ribeiro de Oliveira,2,1
+Francisco Trivinho Strixino,Patrícia dos Santos Araújo,2,1
+Alberto Moreira Jorge Junior,Virginie Roche,3,1
+Victor Alejandro Mauad de Sousa Andrade Essus,Evelyn Christyan da Silva Santos,2,1
+Victor Alejandro Mauad de Sousa Andrade Essus,Priscilla Vanessa Finotelli,2,1
+Victor Alejandro Mauad de Sousa Andrade Essus,Juliana Reis Cortines,2,1
+Victor Alejandro Mauad de Sousa Andrade Essus,Marcel Guimarães Martins,2,1
+Jéssica Dornelas da Silva,Lorayne Aguiar,2,1
+Jéssica Dornelas da Silva,Sara Gemini Piperni,2,1
+Jéssica Dornelas da Silva,Priscilla Vanessa Finotelli,2,1
+Jéssica Dornelas da Silva,Helen Conceição Ferraz,2,1
+Evelyn Christyan da Silva Santos,Lorayne Aguiar,2,1
+Evelyn Christyan da Silva Santos,Juliana Reis Cortines,2,1
+Evelyn Christyan da Silva Santos,Helen Conceição Ferraz,2,1
+Evelyn Christyan da Silva Santos,Marcel Guimarães Martins,3,1
+Lorayne Aguiar,Sara Gemini Piperni,3,1
+Lorayne Aguiar,Priscilla Vanessa Finotelli,3,1
+Lorayne Aguiar,Helen Conceição Ferraz,3,1
+Lorayne Aguiar,Marcel Guimarães Martins,2,1
+Sara Gemini Piperni,Helen Conceição Ferraz,3,1
+Sara Gemini Piperni,Marcel Guimarães Martins,2,1
+Priscilla Vanessa Finotelli,Juliana Reis Cortines,2,1
+Priscilla Vanessa Finotelli,Helen Conceição Ferraz,2,1
+Priscilla Vanessa Finotelli,Marcel Guimarães Martins,3,1
+Helen Conceição Ferraz,Marcel Guimarães Martins,2,1
+Rodrigo Ferrão de Paiva Martins,Elvira Maria Correia Fortunato,2,1
+Ana Carolina Marques,Pedro Barquinha,2,1
+Ana Carolina Marques,Elvira Maria Correia Fortunato,2,1
+Luís Miguel Pereira,Elvira Maria Correia Fortunato,2,1
+Pedro Barquinha,Elvira Maria Correia Fortunato,3,1
+José Antonio Souza,GUSTAVO MARTINI DALPIAN,2,1
+Daniela Nunes,Pedro Barquinha,2,1
+Daniela Nunes,Elvira Maria Correia Fortunato,2,1
+Daniela Nunes,Rodrigo Ferrão de Paiva Martins,2,1
+Pedro Barquinha,Rodrigo Ferrão de Paiva Martins,2,1
+Elvira Maria Correia Fortunato,Rodrigo Ferrão de Paiva Martins,2,1
+LUIZ GUSTAVO BONATO,Diogo B. Almeida,2,1
+LUIZ GUSTAVO BONATO,Ana Flávia Nogueira,2,1
+Diogo B. Almeida,Ana Flávia Nogueira,2,1
+Karla Furtado Andriani,Juarez L. F. Da Silva,2,1
+Gustavo Menim Cruz,Eder Carlos Ferreira de Souza,2,1
+Gustavo Menim Cruz,Edson Cezar Grzebielucka,2,1
+Gustavo Menim Cruz,Sandra Regina Masetto Antunes,2,1
+Eder Carlos Ferreira de Souza,Sandra Regina Masetto Antunes,2,1
+Edson Cezar Grzebielucka,Sandra Regina Masetto Antunes,2,1
+Josué Coelho do Amaral Júnior,Herman Sander Mansur,2,1
+Isadora Cota Carvalho,Herman Sander Mansur,3,1
+Wanessa Lima de Oliveira,Pedro Barbosa Costa Serra,2,1
+Wanessa Lima de Oliveira,Samuel B. C. Serra,2,1
+Wanessa Lima de Oliveira,João Paulo de Mesquita,2,1
+Pedro Barbosa Costa Serra,João Paulo de Mesquita,2,1
+Samuel B. C. Serra,João Paulo de Mesquita,2,1
+Francisco Trivinho Strixino,Vagner Romito de Mendonça,2,1
+Letícia Silva De Bortoli,Marcio Celso Fredel,2,1
+Aelton Baptista Santos,Cristiano Francico Woellner,2,1
+Pedro de Camargo Mazon,Cristiano Francico Woellner,2,1
+Alice Gameiro Leonel,Alexandra Ancelmo Piscitelli Mansur,2,1
+Alice Gameiro Leonel,Herman Sander Mansur,2,1
+Yuri Leandro Rodrigues Lopes Fernandes,Meysam Mashhadikarimi,2,1
+Yuri Leandro Rodrigues Lopes Fernandes,Uílame Umbelino Gomes,2,1
+Carlos Eduardo Scanferla,Ana Adelina Winkler Hechenleitner,2,1
+Carlos Eduardo Scanferla,Edgardo Alfonso Gómez Pineda,2,1
+Carlos Eduardo Scanferla,Daniela Martins Fernandes de Oliveira,2,1
+Jessica de Lara Andrade,Cezar Augusto Moreira,2,1
+Cezar Augusto Moreira,Ana Adelina Winkler Hechenleitner,3,1
+Cezar Augusto Moreira,Edgardo Alfonso Gómez Pineda,3,1
+Cezar Augusto Moreira,Daniela Martins Fernandes de Oliveira,3,1
+Elyan Gustavo Vieira Melo,Bacus de Oliveira Nahime,2,1
+Anna Gabriella Tempesta,Talitha Ramos Canabarra dos Santos,2,1
+Guilherme Boenny Strapasson,Silma Alberton Corrêa,2,1
+Silma Alberton Corrêa,Daniel Eduardo Weibel,3,1
+Lara Kelly Ribeiro,Juan Andrés,3,1
+Lara Kelly Ribeiro,Elson Longo,3,1
+Lara Kelly Ribeiro,Ieda Lúcia Viana Rosa,2,1
+Marcelo de Assis,Amanda Fernandes Gouveia,2,1
+Marcelo de Assis,Ieda Lúcia Viana Rosa,2,1
+Amanda Fernandes Gouveia,Juan Andrés,3,1
+Amanda Fernandes Gouveia,Elson Longo,3,1
+Amanda Fernandes Gouveia,Ieda Lúcia Viana Rosa,2,1
+Elson Longo,Ieda Lúcia Viana Rosa,2,1
+Raquele Lima Moreira,Luis Paulo Mourão dos Santos,2,1
+Raquele Lima Moreira,Igor Frota Vasconcelos,2,1
+Laura Valácio de Carvalho,JOAQUIM PAULO SILVA,2,1
+Laura Valácio de Carvalho,Juliano E. Oliveira,2,1
+Ana Carolina Cortez Lemos,Kelvi Wilson Evaristo Miranda,2,1
+Ana Carolina Cortez Lemos,JOAQUIM PAULO SILVA,2,1
+Ana Carolina Cortez Lemos,Juliano E. Oliveira,2,1
+Kelvi Wilson Evaristo Miranda,JOAQUIM PAULO SILVA,2,1
+Kelvi Wilson Evaristo Miranda,Juliano E. Oliveira,2,1
+Leonardo Almeida Freire,JOAQUIM PAULO SILVA,2,1
+Leonardo Almeida Freire,Juliano E. Oliveira,2,1
+JOAQUIM PAULO SILVA,Juliano E. Oliveira,2,1
+Fauze Ahmad Aouada,Marcia Regina de Moura Aouada,2,1
+Michelle de P. Madeira,Josy A. Osajima,2,1
+Edson C.  Silva Filho,Josy A. Osajima,2,1
+Marcelo de Assis,Lara Kelly Ribeiro,2,1
+Amanda Fernandes Gouveia,Lara Kelly Ribeiro,2,1
+Elson Longo,Juan Andrés,3,1
+Tauany de Figueiredo Neves,Patricia Prediger,3,1
+Natália Gabriele Camparotto,Patricia Prediger,3,1
+Tatiane Horta Ribeiro,Yasmin Vieira,2,1
+Tatiane Horta Ribeiro,Guilherme Luiz Dotto,2,1
+Yasmin Vieira,Guilherme Luiz Dotto,2,1
+Natália Gabriele Camparotto,Tauany de Figueiredo Neves,2,1
+Paula Mantovani dos Santos,Marcela Zanetti Corazza,2,1
+Paula Fabíola Pantoja Pinheiro,Marcos Allan Leite dos Reis,2,1
+Celso Valentim Santilli,Peter Hammer,2,1
+Natalia Cristina da Silva,Tais Teo de Barros-Alexandrino,2,1
+Natalia Cristina da Silva,Odilio Benedito Garrido de Assis,2,1
+Natalia Cristina da Silva,Milena Martelli Tosi,2,1
+Tais Teo de Barros-Alexandrino,Odilio Benedito Garrido de Assis,2,1
+Tais Teo de Barros-Alexandrino,Milena Martelli Tosi,2,1
+Odilio Benedito Garrido de Assis,Milena Martelli Tosi,2,1
+Mariana Monteiro de Lima Forini,Débora Ribeiro Antunes,2,1
+Mariana Monteiro de Lima Forini,Luiz A. F. Cavalcante,2,1
+Mariana Monteiro de Lima Forini,Montcharles S. Pontes,2,1
+Mariana Monteiro de Lima Forini,Etenaldo Felipe Santiago,2,1
+Mariana Monteiro de Lima Forini,Renato Grillo,2,1
+Débora Ribeiro Antunes,Luiz A. F. Cavalcante,2,1
+Débora Ribeiro Antunes,Montcharles S. Pontes,2,1
+Débora Ribeiro Antunes,Etenaldo Felipe Santiago,2,1
+Débora Ribeiro Antunes,Renato Grillo,2,1
+Luiz A. F. Cavalcante,Montcharles S. Pontes,2,1
+Luiz A. F. Cavalcante,Etenaldo Felipe Santiago,2,1
+Luiz A. F. Cavalcante,Renato Grillo,2,1
+Montcharles S. Pontes,Etenaldo Felipe Santiago,2,1
+Montcharles S. Pontes,Renato Grillo,2,1
+Etenaldo Felipe Santiago,Renato Grillo,2,1
+Anerise de Barros,Antonio Riul Jr.,2,1
+Silgia Aparecida Costa,Iseli Lourenço Nantes-Cardoso,2,1
+Rafael Humberto Mota de Siqueira,Milton Sergio Fernandes de Lima,2,1
+Isabela Atílio Ligabo,Milton Sergio Fernandes de Lima,2,1
+Isabela Dainezi,Spyridion Haritos Borges,4,1
+Isabela Dainezi,Lucíola Lucena de Sousa,2,1
+Isabela Dainezi,Neide Aparecida Mariano,4,1
+Spyridion Haritos Borges,Lucíola Lucena de Sousa,2,1
+Spyridion Haritos Borges,Neide Aparecida Mariano,4,1
+Lucíola Lucena de Sousa,Neide Aparecida Mariano,2,1
+Guilherme Santos Vacchi,Cristie Luis Kugelmeier,2,1
+Guilherme Santos Vacchi,Rodrigo da Silva,2,1
+Guilherme Santos Vacchi,Cristian Pohl Meinhardt,2,1
+Guilherme Santos Vacchi,Carlos Alberto Della Rovere,2,1
+Cristie Luis Kugelmeier,Cristian Pohl Meinhardt,2,1
+Cristie Luis Kugelmeier,Carlos Alberto Della Rovere,2,1
+Rodrigo da Silva,Cristian Pohl Meinhardt,2,1
+Rodrigo da Silva,Carlos Alberto Della Rovere,2,1
+Cristian Pohl Meinhardt,Carlos Alberto Della Rovere,2,1
+Isabela Dainezi,Lucíola Lucena Sousa,2,1
+Spyridion Haritos Borges,Lucíola Lucena Sousa,2,1
+Lucíola Lucena Sousa,Neide Aparecida Mariano,2,1
+Pamela Karina dos Santos Bomfim,Piter Gargarella,2,1
+Railson Bolsoni Falcão,Mário Boccalini Jr.,3,1
+Railson Bolsoni Falcão,Moysés Leite de Lima,3,1
+Railson Bolsoni Falcão,Fernando José Gomes Landgraf,3,1
+Mário Boccalini Jr.,Moysés Leite de Lima,2,1
+Mário Boccalini Jr.,Fernando José Gomes Landgraf,3,1
+Moysés Leite de Lima,Fernando José Gomes Landgraf,2,1
+Henrique Rodrigues Oliveira,Fernando José Gomes Landgraf,3,1
+Stano Imbrogno,Moataz Attallah,2,1
+Stano Imbrogno,Ana Sofia C. M. D'Oliveira,2,1
+Moataz Attallah,Ana Sofia C. M. D'Oliveira,2,1
+Victor Lira Chastinet,Henrique Rodrigues Oliveira,2,1
+Victor Lira Chastinet,Alexandre Cunha,2,1
+Marcos Vinícius Bento,Henrique Rodrigues Oliveira,2,1
+Marcos Vinícius Bento,Alexandre Cunha,2,1
+Henrique Rodrigues Oliveira,Alexandre Cunha,2,1
+Piter Gargarella,Rodolfo L. Batalha,2,1
+Piter Gargarella,Simon Pauly,2,1
+Piter Gargarella,Claudio S. Kiminami,2,1
+Rodolfo L. Batalha,Simon Pauly,2,1
+Rodolfo L. Batalha,Claudio S. Kiminami,2,1
+Simon Pauly,Claudio S. Kiminami,2,1
+Eloisa Pereira Cardozo,Ana Sofia C. M. D'Oliveira,2,1
+Fernando José Gomes Landgraf,Rafael de Moura Nobre,2,1
+WILLY ANK DE MORAIS,Rafael de Moura Nobre,2,1
+Fernando José Gomes Landgraf,Railson Bolsoni Falcão,2,1
+André Cruz da Costa Maciel,Otávio Fernandes Lima da Rocha,2,1
+André Cruz da Costa Maciel,Maria Adrina Paixão de Souza da Silva,2,1
+Thiago Antônio Paixão de Souza Costa,Maria Adrina Paixão de Souza da Silva,2,1
+Nádia Silva Cosmo,Maria Adrina Paixão de Souza da Silva,2,1
+Maria Adrina Paixão de Souza da Silva,Otávio Fernandes Lima da Rocha,2,1
+Crystopher Cardoso Brito,Amauri Garcia,2,1
+Cássio Augusto Pinto Silva,Noé Cheung,2,1
+Cássio Augusto Pinto Silva,Amauri Garcia,2,1
+Noé Cheung,Amauri Garcia,2,1
+Leticia Falcao Starck,Ana Luísa Terasawa Senra,2,1
+Leticia Falcao Starck,Ricardo Sanson Namur,4,1
+Leticia Falcao Starck,Marcel Tadashi Izumi,3,1
+Leticia Falcao Starck,Mauricio de Castro,2,1
+Leticia Falcao Starck,Milene Yumi Maeda,3,1
+Leticia Falcao Starck,Antonio J. Ramirez,2,1
+Leticia Falcao Starck,Pedro da Silva Craidy,2,1
+Leticia Falcao Starck,Osvaldo Mitsuyuki Cintho,4,1
+Ana Luísa Terasawa Senra,Ricardo Sanson Namur,3,1
+Ana Luísa Terasawa Senra,Marcel Tadashi Izumi,4,1
+Ana Luísa Terasawa Senra,Mauricio de Castro,3,1
+Ana Luísa Terasawa Senra,Milene Yumi Maeda,4,1
+Ana Luísa Terasawa Senra,Antonio J. Ramirez,2,1
+Ana Luísa Terasawa Senra,Pedro da Silva Craidy,2,1
 Ana Luísa Terasawa Senra,Osvaldo Mitsuyuki Cintho,5,1
+Ricardo Sanson Namur,Marcel Tadashi Izumi,2,1
+Ricardo Sanson Namur,Mauricio de Castro,2,1
+Ricardo Sanson Namur,Milene Yumi Maeda,2,1
+Ricardo Sanson Namur,Antonio J. Ramirez,2,1
+Ricardo Sanson Namur,Osvaldo Mitsuyuki Cintho,4,1
+Marcel Tadashi Izumi,Mauricio de Castro,3,1
+Marcel Tadashi Izumi,Milene Yumi Maeda,4,1
+Marcel Tadashi Izumi,Antonio J. Ramirez,2,1
+Marcel Tadashi Izumi,Pedro da Silva Craidy,2,1
 Marcel Tadashi Izumi,Osvaldo Mitsuyuki Cintho,5,1
+Mauricio de Castro,Milene Yumi Maeda,3,1
+Mauricio de Castro,Antonio J. Ramirez,2,1
+Mauricio de Castro,Pedro da Silva Craidy,2,1
+Mauricio de Castro,Osvaldo Mitsuyuki Cintho,4,1
+Milene Yumi Maeda,Antonio J. Ramirez,2,1
+Milene Yumi Maeda,Pedro da Silva Craidy,2,1
+Milene Yumi Maeda,Osvaldo Mitsuyuki Cintho,4,1
+Antonio J. Ramirez,Osvaldo Mitsuyuki Cintho,2,1
+Pedro da Silva Craidy,Osvaldo Mitsuyuki Cintho,2,1
+Henrique Rodrigues Oliveira,Railson Bolsoni Falcão,3,1
+Henrique Rodrigues Oliveira,Victor Lira Chastinet,2,1
+Henrique Rodrigues Oliveira,Mário Boccalini Jr.,2,1
+Henrique Rodrigues Oliveira,Carlos Henrique Ahrens,2,1
+Railson Bolsoni Falcão,Carlos Henrique Ahrens,2,1
+Mário Boccalini Jr.,Carlos Henrique Ahrens,2,1
+Carlos Henrique Ahrens,Fernando José Gomes Landgraf,2,1
+WILLY ANK DE MORAIS,Fernando José Gomes Landgraf,2,1
+Maysa Terada,Renato Spacini de Castro,2,1
+Maysa Terada,Joaquim Francisco Bertuol Porto,2,1
+Maysa Terada,Gleicy de Lima Xavier Ribeiro,2,1
+Maysa Terada,Luis Umbelino dos Santos,2,1
+Renato Spacini de Castro,Joaquim Francisco Bertuol Porto,2,1
+Renato Spacini de Castro,Luis Umbelino dos Santos,2,1
+Joaquim Francisco Bertuol Porto,Luis Umbelino dos Santos,2,1
+Gleicy de Lima Xavier Ribeiro,Luis Umbelino dos Santos,2,1
+André Henrique Guimarães Gabriel,Eder Socrates Najar Lopes,2,1
+Eduardo Bertoni da Fonseca,Eder Socrates Najar Lopes,2,1
+Eduardo Azzolini Volnistem,Luiz Fernando Cótica,3,1
+Gustavo Sanguino Dias,Luiz Fernando Cótica,3,1
+Kelson de Sousa Leite,Antônio Alves de Carvalho Júnior,2,1
+Kelson de Sousa Leite,José M. E. Matos,3,1
+Antônio Alves de Carvalho Júnior,José M. E. Matos,3,1
+Cezar Augusto Moreira,Angélica Gonçalves Oliveira,2,1
+Jessica de Lara Andrade,Angélica Gonçalves Oliveira,2,1
+Vinicius Santana da Silva,Gustavo Sanguino Dias,2,1
+Vinicius Santana da Silva,Eduardo Azzolini Volnistem,2,1
+Vinicius Santana da Silva,Ivair Aparecido Santos,2,1
+Vinicius Santana da Silva,Luiz Fernando Cótica,2,1
+Ivair Aparecido Santos,Luiz Fernando Cótica,2,1
+Julián David Escobar Atehortua,Norbert Schell,2,1
+Julián David Escobar Atehortua,João Pedro Oliveira,3,1
+Julián David Escobar Atehortua,Julian Arnaldo Avila Diaz,4,1
+Norbert Schell,João Pedro Oliveira,2,1
+João Gomes de Oliveira Neto,Rossano Lang,2,1
 João Gomes de Oliveira Neto,Adenilson Oliveira dos Santos,8,1
+Walajhone Oliveira Pereira,Adenilson Oliveira dos Santos,3,1
+Rossano Lang,Adenilson Oliveira dos Santos,2,1
+Julián David Escobar Atehortua,Hélio Goldenstein,2,1
+Julian Arnaldo Avila Diaz,João Pedro Oliveira,2,1
+Julian Arnaldo Avila Diaz,Hélio Goldenstein,2,1
+João Pedro Oliveira,Hélio Goldenstein,2,1
+Jailton Romão Viana,João Gomes de Oliveira Neto,2,1
+Jailton Romão Viana,Mateus Ribeiro Lage,2,1
+Jailton Romão Viana,Adenilson Oliveira dos Santos,3,1
+João Gomes de Oliveira Neto,Mateus Ribeiro Lage,2,1
+Gleicy de Lima Xavier Ribeiro,Renato Spacini de Castro,2,1
+Walajhone Oliveira Pereira,João Gomes de Oliveira Neto,2,1
+Rayssa Rafaella de Souza da Cruz Oliveira,João Gomes de Oliveira Neto,2,1
+Rayssa Rafaella de Souza da Cruz Oliveira,Adenilson Oliveira dos Santos,2,1
+Kamila Rodrigues Abreu,João Gomes de Oliveira Neto,2,1
+Kamila Rodrigues Abreu,Adenilson Oliveira dos Santos,2,1
+Daniel Hermida Merino,José Fernando Queiruga Rey,2,1
+Rafael Jesus Gonçalves Rubira,Carlos José Leopoldo Constantino,2,1
+Gabriel Gomes Baltazar Alves,Augusto Batagin Neto,2,1
+Bruno Hori Barboza,Augusto Batagin-Neto,2,1
+João Pedro Costa Rheinheimer,Leonardo Francisco Gonçalves Dias,2,1
+João Pedro Costa Rheinheimer,Orisson Ponce Gomes,3,1
+João Pedro Costa Rheinheimer,Augusto Batagin-Neto,3,1
+João Pedro Costa Rheinheimer,Paulo Noronha Lisboa Filho,3,1
+Leonardo Francisco Gonçalves Dias,Orisson Ponce Gomes,3,1
+Leonardo Francisco Gonçalves Dias,Augusto Batagin-Neto,3,1
+Leonardo Francisco Gonçalves Dias,Paulo Noronha Lisboa Filho,3,1
+Orisson Ponce Gomes,Augusto Batagin-Neto,3,1
+Orisson Ponce Gomes,Paulo Noronha Lisboa Filho,3,1
+Augusto Batagin-Neto,Paulo Noronha Lisboa Filho,3,1
+Leonardo Correia Leandro,Antônio Karlos Valença,2,1
+Leonardo Correia Leandro,Kelly Cristiane Gomes,2,1
+Leonardo Correia Leandro,José Felix da Silva Neto,2,1
+Antônio Karlos Valença,Kelly Cristiane Gomes,2,1
+Antônio Karlos Valença,José Felix da Silva Neto,2,1
+Kelly Cristiane Gomes,José Felix da Silva Neto,2,1
+Mauricio de Castro,Leticia Falcao Starck,2,1
+Mauricio de Castro,Ricardo Sanson Namur,2,1
+Ana Luísa Terasawa Senra,Leticia Falcao Starck,2,1
+Marcel Tadashi Izumi,Ricardo Sanson Namur,2,1
+Milene Yumi Maeda,Ricardo Sanson Namur,2,1
+Guilherme da Silva Lopes Fabris,José Artigas dos Santos Laranjeira,2,1
+Guilherme da Silva Lopes Fabris,Mateus Ferrer,2,1
+Guilherme da Silva Lopes Fabris,Anderson Reis Albuquerque,4,1
 Guilherme da Silva Lopes Fabris,Julio Ricardo Sambrano,5,1
+Guilherme da Silva Lopes Fabris,Carlos Alberto Paskocimas,2,1
+José Artigas dos Santos Laranjeira,Mateus Ferrer,4,1
+José Artigas dos Santos Laranjeira,Anderson Reis Albuquerque,4,1
+José Artigas dos Santos Laranjeira,Julio Ricardo Sambrano,4,1
+José Artigas dos Santos Laranjeira,Carlos Alberto Paskocimas,2,1
+Mateus Ferrer,Anderson Reis Albuquerque,4,1
+Mateus Ferrer,Julio Ricardo Sambrano,4,1
+Mateus Ferrer,Carlos Alberto Paskocimas,2,1
 Anderson Reis Albuquerque,Julio Ricardo Sambrano,5,1
+Anderson Reis Albuquerque,Carlos Alberto Paskocimas,2,1
+Julio Ricardo Sambrano,Carlos Alberto Paskocimas,2,1
+Rogério Almeida Gouvêa,Marcos Jose Leite Santos,2,1
+Felipe Orlando Morais,Juarez L. F. Da Silva,2,1
+Giovani Gonçalves Ribamar,Julián David Escobar Atehortua,2,1
+Giovani Gonçalves Ribamar,Julian Arnaldo Avila Diaz,2,1
+José Artigas dos Santos Laranjeira,Guilherme da Silva Lopes Fabris,2,1
+Mateus Ferrer,Guilherme da Silva Lopes Fabris,2,1
+Renan Augusto Pontes Ribeiro,Marisa Carvalho Oliveira,2,1
+Renan Augusto Pontes Ribeiro,Elson Longo,2,1
+Renan Augusto Pontes Ribeiro,Sergio Ricardo de Lazaro,2,1
+Marisa Carvalho Oliveira,Elson Longo,2,1
+Marisa Carvalho Oliveira,Sergio Ricardo de Lazaro,2,1
+Elson Longo,Sergio Ricardo de Lazaro,2,1
+Guilherme Bonifácio Rosa,Luis Henrique da Silveira Lacerda,2,1
+Sergio Ricardo de Lazaro,Luis Henrique da Silveira Lacerda,2,1
+Jeronimo Ferreira silva,Anderson Reis Albuquerque,2,1
+Jeronimo Ferreira silva,Ary da Silva Maia,2,1
+Anderson Reis Albuquerque,Ary da Silva Maia,2,1
+Antonio Douglas da Silva Guedes Lima,Mateus Ribeiro Lage,2,1
+Eliezer Fernando de Oliveira,Chenxi Li,2,1
+Eliezer Fernando de Oliveira,Xiang Zhang,2,1
+Eliezer Fernando de Oliveira,Harikishan Kannan,2,1
+Eliezer Fernando de Oliveira,Anand B. Puthirath,2,1
+Eliezer Fernando de Oliveira,Robert Vajtai,2,1
+Eliezer Fernando de Oliveira,Douglas Soares Galvão,2,1
+Eliezer Fernando de Oliveira,Pulickel M. Ajayan,2,1
+Chenxi Li,Xiang Zhang,2,1
+Chenxi Li,Harikishan Kannan,2,1
+Chenxi Li,Anand B. Puthirath,2,1
+Chenxi Li,Robert Vajtai,2,1
+Chenxi Li,Douglas Soares Galvão,2,1
+Chenxi Li,Pulickel M. Ajayan,2,1
+Xiang Zhang,Harikishan Kannan,2,1
+Xiang Zhang,Anand B. Puthirath,2,1
+Xiang Zhang,Robert Vajtai,2,1
+Xiang Zhang,Douglas Soares Galvão,2,1
+Xiang Zhang,Pulickel M. Ajayan,2,1
+Harikishan Kannan,Anand B. Puthirath,2,1
+Harikishan Kannan,Robert Vajtai,2,1
+Harikishan Kannan,Douglas Soares Galvão,2,1
+Harikishan Kannan,Pulickel M. Ajayan,2,1
+Anand B. Puthirath,Robert Vajtai,2,1
+Anand B. Puthirath,Douglas Soares Galvão,2,1
+Anand B. Puthirath,Pulickel M. Ajayan,2,1
+Robert Vajtai,Douglas Soares Galvão,2,1
+Robert Vajtai,Pulickel M. Ajayan,2,1
+Douglas Soares Galvão,Pulickel M. Ajayan,2,1
+Andressa S. Gomes,Flávio C. Cabrera,2,1
+Andressa S. Gomes,Guilherme Dognani,2,1
+Andressa S. Gomes,Aldo E. Job,2,1
+Maria V. G. Leal,Flávio C. Cabrera,2,1
+Maria V. G. Leal,Guilherme Dognani,2,1
+Maria V. G. Leal,Aldo E. Job,2,1
+Flávio C. Cabrera,Guilherme Dognani,2,1
+Flávio C. Cabrera,Aldo E. Job,2,1
+Guilherme Dognani,Aldo E. Job,2,1
+Michel Lacerda Marcondes,Lucy Vitoria Credidio Assali,2,1
+Michel Lacerda Marcondes,Helena Maria Petrilli,2,1
+Michel Lacerda Marcondes,Armandina Maria Lima Lopes,2,1
+Michel Lacerda Marcondes,João Pedro Esteves Araujo,2,1
+Lucy Vitoria Credidio Assali,Helena Maria Petrilli,4,1
+Lucy Vitoria Credidio Assali,Armandina Maria Lima Lopes,3,1
+Lucy Vitoria Credidio Assali,João Pedro Esteves Araujo,3,1
+Helena Maria Petrilli,Armandina Maria Lima Lopes,2,1
+Helena Maria Petrilli,João Pedro Esteves Araujo,3,1
+João Guilherme Correia,Armandina Maria Lima Lopes,2,1
+João Guilherme Correia,João Pedro Esteves Araujo,2,1
+Armandina Maria Lima Lopes,João Pedro Esteves Araujo,3,1
+Valmor Roberto Mastelaro,Pedro Augusto de Paula Nascente,2,1
+João de Deus Pereira de Moraes Segundo,Jamilly Salustiano Ferreira Constatino,2,1
+João de Deus Pereira de Moraes Segundo,Guilherme Bedeschi Calais,2,1
+João de Deus Pereira de Moraes Segundo,Celso Fidelis de Moura Junior,2,1
+João de Deus Pereira de Moraes Segundo,Maria Oneide Silva-Moraes,2,1
+João de Deus Pereira de Moraes Segundo,Fábia Karine Andrade,2,1
+João de Deus Pereira de Moraes Segundo,Marcos Akira dÁvila,2,1
+João de Deus Pereira de Moraes Segundo,Marisa Masumi Beppu,2,1
+João de Deus Pereira de Moraes Segundo,Rodrigo Silveira Vieira,2,1
+Jamilly Salustiano Ferreira Constatino,Guilherme Bedeschi Calais,2,1
+Jamilly Salustiano Ferreira Constatino,Celso Fidelis de Moura Junior,2,1
+Jamilly Salustiano Ferreira Constatino,Maria Oneide Silva-Moraes,2,1
+Jamilly Salustiano Ferreira Constatino,Fábia Karine Andrade,2,1
+Jamilly Salustiano Ferreira Constatino,Marcos Akira dÁvila,2,1
+Jamilly Salustiano Ferreira Constatino,Marisa Masumi Beppu,2,1
+Jamilly Salustiano Ferreira Constatino,Rodrigo Silveira Vieira,2,1
+Guilherme Bedeschi Calais,Celso Fidelis de Moura Junior,2,1
+Guilherme Bedeschi Calais,Maria Oneide Silva-Moraes,2,1
+Guilherme Bedeschi Calais,Fábia Karine Andrade,2,1
+Guilherme Bedeschi Calais,Marcos Akira dÁvila,2,1
+Guilherme Bedeschi Calais,Marisa Masumi Beppu,2,1
+Guilherme Bedeschi Calais,Rodrigo Silveira Vieira,2,1
+Celso Fidelis de Moura Junior,Maria Oneide Silva-Moraes,2,1
+Celso Fidelis de Moura Junior,Fábia Karine Andrade,2,1
+Celso Fidelis de Moura Junior,Marcos Akira dÁvila,2,1
+Celso Fidelis de Moura Junior,Marisa Masumi Beppu,2,1
+Celso Fidelis de Moura Junior,Rodrigo Silveira Vieira,2,1
+Maria Oneide Silva-Moraes,Fábia Karine Andrade,2,1
+Maria Oneide Silva-Moraes,Marcos Akira dÁvila,2,1
+Maria Oneide Silva-Moraes,Marisa Masumi Beppu,2,1
+Maria Oneide Silva-Moraes,Rodrigo Silveira Vieira,2,1
+Fábia Karine Andrade,Marcos Akira dÁvila,2,1
+Fábia Karine Andrade,Marisa Masumi Beppu,2,1
+Fábia Karine Andrade,Rodrigo Silveira Vieira,2,1
+Marcos Akira dÁvila,Marisa Masumi Beppu,2,1
+Marcos Akira dÁvila,Rodrigo Silveira Vieira,2,1
+Marisa Masumi Beppu,Rodrigo Silveira Vieira,2,1
+Elena Tude,Andrea Machado Costa,3,1
+Andrea Machado Costa,Alexandre Malta Rossi,2,1
+Monica Calasans-Maia,Suelen Sartoretto,2,1
+Monica Calasans-Maia,Alexandre Malta Rossi,2,1
+Suelen Sartoretto,Alexandre Malta Rossi,2,1
+Chantal Damia,Eric CHAMPION,3,1
+Ingrid Gomes Ribeiro,Fernando Teixeira Bueno,2,1
+Ingrid Gomes Ribeiro,Leonardo Evaristo de Sousa,2,1
+Ingrid Gomes Ribeiro,Pedro Henrique de Oliveira Neto,2,1
+Cristiane Evelise Ribeiro da Silva,Joan OConnor,2,1
+Melissa Leitão dos Santos Costa,Elena Tude,2,1
+Melissa Leitão dos Santos Costa,Andrea Machado Costa,2,1
+Melissa Leitão dos Santos Costa,Alexandre Malta Rossi,2,1
+Jhuliene Elen Torrento,Carlos Roberto Grandini,3,1
+Jhuliene Elen Torrento,Diego Rafael Nespeque Correa,3,1
+Carlos Roberto Grandini,Diego Rafael Nespeque Correa,2,1
+Jean Valdir Uchôa Teixeira,Paulo Noronha Lisboa Filho,2,1
+Rafael Formenton Macedo dos Santos,Conrado Ramos Moreira Afonso,2,1
+Fernanda de Freitas Quadros,Gerson Santos de Almeida,2,1
+Fernanda de Freitas Quadros,Willian Fernando Zambuzzi,2,1
+Fernanda de Freitas Quadros,Carlos Roberto Grandini,2,1
+Giovana Collombaro Cardoso,Carlos Roberto Grandini,2,1
+Gerson Santos de Almeida,Willian Fernando Zambuzzi,3,1
+Gerson Santos de Almeida,Carlos Roberto Grandini,2,1
+Willian Fernando Zambuzzi,Carlos Roberto Grandini,2,1
+Célio Junior da Costa Fernandes,Willian Fernando Zambuzzi,2,1
+Israel Ramos Rodrigues,Carlos Roberto Grandini,2,1
+Renan Eduardo de Lima Lopes,Carlos Roberto Grandini,2,1
+Vitor Martins de Andrade,Katia da Conceição,2,1
+Vitor Martins de Andrade,Aline Capella de Oliveira,2,1
+Katia da Conceição,Aline Capella de Oliveira,2,1
+Samuel Silva dos Santos,Pedro Miguel da Rocha Rodrigues,2,1
+Samuel Silva dos Santos,Lucy Vitoria Credidio Assali,2,1
+Samuel Silva dos Santos,Armandina Maria Lima Lopes,2,1
+Samuel Silva dos Santos,Helena Maria Petrilli,2,1
+Samuel Silva dos Santos,João Pedro Esteves Araujo,2,1
+Ivan Paula Miranda,Lucy Vitoria Credidio Assali,2,1
+Ivan Paula Miranda,Armandina Maria Lima Lopes,2,1
+Ivan Paula Miranda,Helena Maria Petrilli,2,1
+Ivan Paula Miranda,João Pedro Esteves Araujo,2,1
+Pedro Miguel da Rocha Rodrigues,Lucy Vitoria Credidio Assali,3,1
+Pedro Miguel da Rocha Rodrigues,Armandina Maria Lima Lopes,3,1
+Pedro Miguel da Rocha Rodrigues,Helena Maria Petrilli,3,1
+Pedro Miguel da Rocha Rodrigues,João Pedro Esteves Araujo,3,1
+Armandina Maria Lima Lopes,Helena Maria Petrilli,2,1
+Pablo Rougerie,Karine Anselme,2,1
+Karine Anselme,Marcos Farina,2,1
+Maximiliano Santos da Rocha,Ricardo Meurer Papaléo,2,1
+Elisa Magno Nunes Oliveira,Ricardo Meurer Papaléo,2,1
+Alexandre Mendes de Almeida Junior,Pedro Henrique Benites Aoki,2,1
+Sabrina Aléssio Camacho,Pedro Henrique Benites Aoki,4,1
+Leonardo Miziara Barboza Ferreira,Valtencir Zucolotto,2,1
+Natália Noronha Ferreira,Valtencir Zucolotto,2,1
+Marcelo Fernandes Cipreste,Waldemar Augusto de Almeida Macedo,2,1
+Marcelo Fernandes Cipreste,Pedro Lana Gastelois,2,1
+Mirella Boaro Kobal,Sabrina Aléssio Camacho,2,1
+Mirella Boaro Kobal,Karina Alves Toledo,3,1
+Mirella Boaro Kobal,Pedro Henrique Benites Aoki,3,1
+Sabrina Aléssio Camacho,Karina Alves Toledo,3,1
+Maria Julia Bistaffa,Karina Alves Toledo,2,1
+Maria Julia Bistaffa,Pedro Henrique Benites Aoki,2,1
+Karina Alves Toledo,Pedro Henrique Benites Aoki,3,1
+Paula Maria Pincela Lins,Valtencir Zucolotto,4,1
+Leticia Batista Clarindo Silva,Stephanne Yonara Barbosa de Carvalho,2,1
+Leticia Batista Clarindo Silva,Regiamara Ribeiro Almeida,2,1
+Leticia Batista Clarindo Silva,Luiz Gustavo de Lima Guimarães,2,1
+Natália Aparecida Rocha Pinto,Stephanne Yonara Barbosa de Carvalho,3,1
+Natália Aparecida Rocha Pinto,Regiamara Ribeiro Almeida,2,1
+Natália Aparecida Rocha Pinto,Luiz Gustavo de Lima Guimarães,3,1
+Stephanne Yonara Barbosa de Carvalho,Luiz Gustavo de Lima Guimarães,3,1
+Regiamara Ribeiro Almeida,Luiz Gustavo de Lima Guimarães,2,1
+Rafaella Takehara Paschoalin,Luiz Henrique Capparelli Mattoso,2,1
+Rafaella Takehara Paschoalin,Osvaldo Novais de Oliveira Junior,2,1
+Ana Carolina Corrêa,Adriana de Campos  Pastre,2,1
+Ana Carolina Corrêa,Bruno Ribeiro Luchesi,2,1
+Ana Carolina Corrêa,José Manoel Marconcini,2,1
+Ana Carolina Corrêa,Thalita Jessika Bondancia,2,1
+Ana Carolina Corrêa,Elisângela Corradini,2,1
+Ana Carolina Corrêa,Ricardo Stefani,2,1
+Ana Carolina Corrêa,Eliangela de Morais Teixeira,2,1
+Adriana de Campos  Pastre,Bruno Ribeiro Luchesi,2,1
+Adriana de Campos  Pastre,José Manoel Marconcini,2,1
+Adriana de Campos  Pastre,Thalita Jessika Bondancia,2,1
+Adriana de Campos  Pastre,Elisângela Corradini,2,1
+Adriana de Campos  Pastre,Ricardo Stefani,2,1
+Adriana de Campos  Pastre,Eliangela de Morais Teixeira,2,1
+Bruno Ribeiro Luchesi,José Manoel Marconcini,2,1
+Bruno Ribeiro Luchesi,Thalita Jessika Bondancia,2,1
+Bruno Ribeiro Luchesi,Elisângela Corradini,2,1
+Bruno Ribeiro Luchesi,Ricardo Stefani,2,1
+Bruno Ribeiro Luchesi,Eliangela de Morais Teixeira,2,1
+José Manoel Marconcini,Thalita Jessika Bondancia,2,1
+José Manoel Marconcini,Elisângela Corradini,2,1
+José Manoel Marconcini,Ricardo Stefani,2,1
+José Manoel Marconcini,Eliangela de Morais Teixeira,2,1
+Thalita Jessika Bondancia,Elisângela Corradini,2,1
+Thalita Jessika Bondancia,Ricardo Stefani,2,1
+Thalita Jessika Bondancia,Eliangela de Morais Teixeira,2,1
+Elisângela Corradini,Ricardo Stefani,2,1
+Elisângela Corradini,Eliangela de Morais Teixeira,2,1
+Ricardo Stefani,Eliangela de Morais Teixeira,2,1
+Mathilde Champeau,Isabela Trindade Coutinho,2,1
+Matheus Batista de Lima,Ana Paula Lopes da Silva,2,1
+Matheus Batista de Lima,Andréa Claudia Oliveira Silva,4,1
+José Vinicius de Lima,Andréa Claudia Oliveira Silva,2,1
+Rhuan Alves Coutinho da Silva,Andréa Claudia Oliveira Silva,2,1
+Ana Paula Lopes da Silva,Andréa Claudia Oliveira Silva,4,1
+Matheus Batista de Lima,Roosevelt Delano de Sousa Bezerra,2,1
+Ana Paula Lopes da Silva,Roosevelt Delano de Sousa Bezerra,2,1
+Roosevelt Delano de Sousa Bezerra,Andréa Claudia Oliveira Silva,2,1
+Thales Rafael Machado,Jussara Soares da Silva,2,1
+Thales Rafael Machado,Máximo Siu Li,2,1
+Renata Rank Miranda,Valtencir Zucolotto,2,1
+Máximo Siu Li,Elson Longo,2,1
+Ana Paula Lopes da Silva,Matheus Batista de Lima,2,1
+Pedro Lana Gastelois,Waldemar Augusto de Almeida Macedo,2,1
+Beatriz Aráoz,Élida B. Hermida,2,1
+Geraldo de Sousa Cândido,Caio Vinicius Lima Natarelli,2,1
+Geraldo de Sousa Cândido,Elisangela Elena Nunes Carvalho,2,1
+Geraldo de Sousa Cândido,Juliano E. Oliveira,2,1
+Caio Vinicius Lima Natarelli,Elisangela Elena Nunes Carvalho,3,1
+Caio Vinicius Lima Natarelli,Juliano E. Oliveira,4,1
+Elisangela Elena Nunes Carvalho,Juliano E. Oliveira,2,1
+Caio Vinicius Lima Natarelli,José Manoel Marconcini,2,1
+Hanna Elisia Araújo de Barros,Juliano E. Oliveira,2,1
+Hanna Elisia Araújo de Barros,José Manoel Marconcini,2,1
+Juliano E. Oliveira,José Manoel Marconcini,2,1
+Ingridy Silva,Janetty Barros,2,1
+Ingridy Silva,Renate Wellen,2,1
+Janetty Barros,Renate Wellen,2,1
+Nichollas Guimarães Jaques,Renate Wellen,2,1
+EDUARDO RADOVANOVIC,Bárbara Sthefani Caldas,2,1
+Jéssica Souza Rodrigues,Amanda de S. M. de Freitas,2,1
+Jéssica Souza Rodrigues,Cristiane Carla Maciel,2,1
+Jéssica Souza Rodrigues,Vagner Roberto Botaro,2,1
+Amanda de S. M. de Freitas,Cristiane Carla Maciel,2,1
+Amanda de S. M. de Freitas,Vagner Roberto Botaro,2,1
+Cristiane Carla Maciel,Vagner Roberto Botaro,2,1
+Stephani Stamboroski,Arundhati Joshi,2,1
+Stephani Stamboroski,Dorothea Brüggemann,2,1
+Arundhati Joshi,Dorothea Brüggemann,2,1
+Rafael Andrade Taveira,Oswaldo Hideo Ando Junior,2,1
+Rafael Andrade Taveira,Igor Wilis Mauerberg Barbosa,2,1
+Rafael Andrade Taveira,Priscila Lemes Rachadel,2,1
+Oswaldo Hideo Ando Junior,Priscila Lemes Rachadel,2,1
+Igor Wilis Mauerberg Barbosa,Priscila Lemes Rachadel,2,1
+Marcia Regina de Moura Aouada,Fauze Ahmad Aouada,2,1
+Noemi Raquel Checca Huaman,Fabrício Frizera Borghi,2,1
+Noemi Raquel Checca Huaman,Alexandre Malta Rossi,2,1
+Noemi Raquel Checca Huaman,Alexandre Mello,2,1
+Noemi Raquel Checca Huaman,André Rossi,2,1
+Fabrício Frizera Borghi,Alexandre Malta Rossi,2,1
+Fabrício Frizera Borghi,Alexandre Mello,2,1
+Fabrício Frizera Borghi,André Rossi,2,1
+Alexandre Malta Rossi,Alexandre Mello,2,1
+Alexandre Malta Rossi,André Rossi,2,1
+Alexandre Mello,André Rossi,2,1
+André Rossi,Marcos Farina,2,1
+Nícolas Lara,Maria Inês Basso Bernardi,2,1
